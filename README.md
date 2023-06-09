@@ -11,8 +11,7 @@ In order to play with application yourself, you should:
 **Remember to copy "resources" folder (and optionally "imgui.ini") from any of the supplied builds**
 
 ## Features
-* **Easily-extensible and optimized(tested on trees of up to 1e5 nodes) tree visualization API,** written using [SFML](https://github.com/SFML/SFML)  
-By default it includes AVL tree, Red-Black tree, Treap and Splay tree
+* **Easily-extensible and optimized(tested on trees of up to 1e5 nodes) tree visualization API,** written using [SFML](https://github.com/SFML/SFML). By default it includes AVL tree, Red-Black tree, Treap and Splay tree
 * Friendly and responsible UI made with [Dear ImGui](https://github.com/ocornut/imgui)
 
 ## Tree operations
