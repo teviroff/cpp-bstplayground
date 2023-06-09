@@ -1,0 +1,10 @@
+# settings
+.vs
+.vscode
+CMakePresets.json
+
+# CMake output directory
+out
+
+# Other
+todo.txt
